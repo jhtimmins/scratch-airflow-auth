@@ -1,0 +1,1 @@
+authentication_method_path = "auth.schemes.basic_auth"
